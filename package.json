@@ -1,0 +1,15 @@
+{
+  "name": "large-num",
+  "version": "0.1.0",
+  "description": "format large number",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/mocha test"
+  },
+  "keywords": [
+    "number",
+    "format"
+  ],
+  "author": "Shaopeng Zhang",
+  "license": "MIT"
+}
