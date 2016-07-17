@@ -11,5 +11,9 @@
     "format"
   ],
   "author": "Shaopeng Zhang",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^2.5.3"
+  }
 }
